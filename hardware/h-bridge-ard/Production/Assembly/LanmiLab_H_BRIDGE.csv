@@ -1,0 +1,32 @@
+Reference, Quantity, Value, Footprint, Datasheet, Part Number, Alternative, Note
+C10 C9 ,2,4.7uF,Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm,http://www.farnell.com/datasheets/2728346.pdf?_ga=2.257770507.120407668.1580559680-797642152.1567873553,RDEC72A475MWK1H03B,,
+C12 C11 ,2,1000uF/63V,Capacitor_THT:CP_Radial_D16.0mm_P7.50mm,https://www.mouser.com/datasheet/2/315/ABA0000C1218-1131230.pdf,EEUFC1J102U,,
+C13 ,1,100uF/63V,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,https://www.mouser.com/datasheet/2/315/ABA0000C1218-1131230.pdf,ECA-1JM101,,
+C14 C4 C8 C7 C3 C6 C5 ,7,100nF/50V,Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm,http://www.farnell.com/datasheets/2045792.pdf?_ga=2.261629197.120407668.1580559680-797642152.1567873553,K104K15X7RF53L2,,
+C15 C16 C17 C18 ,4,1.8nF,Capacitor_THT:C_Rect_L4.0mm_W2.5mm_P2.50mm,http://www.farnell.com/datasheets/2739049.pdf?_ga=2.63973551.120407668.1580559680-797642152.1567873553,C320C182J1G5TA,,
+C2 C1 ,2,220nF,Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2,http://www.farnell.com/datasheets/2752854.pdf?_ga=2.26667709.120407668.1580559680-797642152.1567873553,R82DC3220Z360J,,
+D4 D3 D2 D1 ,4,MBR360,Diode_THT:D_DO-201AD_P15.24mm_Horizontal,http://www.onsemi.com/pub_link/Collateral/MBR340-D.PDF,MBR360G,,
+D8 D7 D6 D5 ,4,D_Schottky_Small,Diode_THT:D_T-1_P5.08mm_Horizontal,https://www.diodes.com/assets/Datasheets/ds11009.pdf,SD103B-F,,
+H1 H2 H3 H4 ,4,MountingHole_Pad,MountingHole:MountingHole_2.1mm,~,,,M2.5 Bolt
+HS1 HS2 HS3 HS4 ,4,Heatsink_Pad,_Heatsink:Heatsink_AAVID_6021BG_25.4x12.7mm__Solderable,https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Channel-6021.pdf,6021BG,590102B03600G,
+J1 ,1,Screw_Terminal_01x04,TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal,http://www.farnell.com/datasheets/1838842.pdf?_ga=2.60638509.120407668.1580559680-797642152.1567873553,31059104,,
+J2 ,1,Screw_Terminal_01x04,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal",http://www.farnell.com/datasheets/2363060.pdf?_ga=2.26159549.120407668.1580559680-797642152.1567873553,"MKDS 1,5/ 4",,
+J3 ,1,Barrel_Jack_Switch,Barrel_Jack:BarrelJack_Horizontal,https://www.we-online.de/katalog/datasheet/6941xx301002.pdf,6.94106E+11,,
+J4 ,1,Screw_Terminal_01x02,TerminalBlock_RND:TerminalBlock_RND_205-00012_1x02_P5.00mm_Horizontal,http://www.farnell.com/datasheets/2336346.pdf?_ga=2.63964335.120407668.1580559680-797642152.1567873553,31320102,,
+JMPR1 ,1,Conn_02x02_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical,~,10-89-7041,,
+JMPR2 ,1,Conn_02x03_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,~,10-89-7061,,
+JP2 JP1 ,2,SolderJumper_3_Bridged12,Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels,~,,,"Not Populated, Configuration Jumper"
+JP3 ,1,Jumper_NO_Small,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,~,,,"Not Populated, Configuration Jumper"
+JPC2 JPC3 JPC1 ,3,JumperCap,_Jumper:ShortingJumperCap-2_P2.54mm,http://www.farnell.com/datasheets/39272.pdf?_ga=2.94235675.720265721.1581510996-797642152.1567873553,2-382811-0,,
+L2 L1 ,2,4.7uH,Inductor_THT:L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2,http://www.farnell.com/datasheets/1951882.pdf?_ga=2.928049.120407668.1580559680-797642152.1567873553,744750340047 ,,
+M1 ,1,Arduino_Nano_v3.x_plug,Module:Arduino_Nano_33_IoT_3D_NoPads,https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf,,,Add-on Board
+P2 P1 ,2,Conn_01x15,Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical,https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf,PPPC151LFBN-RC,,
+Q4 Q3 Q2 Q1 ,4,NMOSFET,Package_TO_SOT_THT:TO-220-3_Vertical,https://www.st.com/resource/en/datasheet/stp25n10f7.pdf,STP25N10F7,,
+R4 R3 R2 R1 ,4,4R7,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,http://www.farnell.com/datasheets/1723854.pdf?_ga=2.262539276.120407668.1580559680-797642152.1567873553,CFR16J4R7,,
+R5 R6 R9 R10 R11 R12 ,6,47K,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,http://www.farnell.com/datasheets/1723854.pdf?_ga=2.262539276.120407668.1580559680-797642152.1567873553,LR0204F47K,,
+R7 R8 ,2,4K7,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,http://www.farnell.com/datasheets/1723854.pdf?_ga=2.262539276.120407668.1580559680-797642152.1567873553,CFR16J4K7,,
+RN1 ,1,3K3,Resistor_THT:R_Array_SIP5,http://www.farnell.com/datasheets/682196.pdf?_ga=2.258286602.120407668.1580559680-797642152.1567873553,4605X-101-332LF,,
+U2 U1 ,2,HIP2101_SOIC,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.intersil.com/content/dam/Intersil/documents/hip2/hip2101.pdf,HIP2101IBZT,UCC27211D,
+U3 ,1,6 x Hex Inverter,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/ds/symlink/sn74s04.pdf,SN74S04N,,
+U4 ,1,DC/DC 9V/500mA,TO:TO-220-3_SRH05S09,https://www.xppower.com/portals/0/pdfs/SF_SRH05.pdf,SRH05S09,,
+U5 ,1,DC/DC 5V/100mA,Package_TO_SOT_THT:TO-92_Inline,http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf,LM78L05ACZ/NOPB,,
