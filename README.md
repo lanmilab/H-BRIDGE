@@ -1,7 +1,8 @@
 # H-BRIDGE
 High Power High Speed MOSFET H-Bridge
 
-![Image description](https://github.com/microhelios/H-BRIDGE/blob/master/UHELIOS_H_BRIDGE.png)
+![Image description](https://github.com/lanmilab/H-BRIDGE/blob/master/LanmiLab_H-Bridge.jpg)
+![Image description](https://github.com/lanmilab/H-BRIDGE/blob/master/LanmiLab_H_BRIDGE.png)
 
 2 X Half-Bridge or Full H-Bridge.
 Digital TTL/CMOS or PWM inputs.
