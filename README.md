@@ -10,6 +10,7 @@ Features Add-On headers Compatible to Arduino Nano.
 
 Typical Applications:
   - Power Stage in Class-D Power Amplifiers
+  ![Image description](https://github.com/lanmilab/PWM_Modulator/blob/master/Applications/Class_D_Amp/PWM_Modulator-Class-D-Amp.jpg)
   - DC Motor Drivers
   - DC/DC Switching power converters
   - LED Drivers
